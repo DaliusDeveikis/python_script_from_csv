@@ -2,7 +2,7 @@
 
 import mysql.connector as mysql # virtualioje aplinkoje instaliuoti paketa -> pip install mysql.connector
 import csv
-from python_script_to_mysql.input_db import host,user,password,my_database_name
+from input_db import host,user,password,my_database_name
 
 # ------- LISTAS : LENTELIU PAVADINIMAI -------
 my_database_table_name = ['IMDBdata', 'Cinema_repertoire','Reservation']
