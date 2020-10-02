@@ -1,4 +1,4 @@
-# python_script_to_mysql -> Pirmas bandymas
+## ***Pirmas bandymas*** :+1:
 ###### Pirmas mano mazas projekciukas [Python script to import csv into MySQL](https://gitlab.com/slkyper/python_script_to_mysql).
 
 ## Paprasta instrukcija :D , kas supras , o kas ne :D
