@@ -1,11 +1,11 @@
 ## ***Pirmas bandymas*** :+1:
-###### Pirmas mano mazas projekciukas [Python script to import csv into MySQL](https://gitlab.com/slkyper/python_script_to_mysql).
+###### Pirmas mano mazas projekciukas [Python script to import csv into MySQL](https://gitlab.com/slkyper/python_script_to_mysql). :snake:
 
-## Paprasta instrukcija :D , kas supras , o kas ne :D
+## Paprasta instrukcija :sunglasses: , kas supras , o kas ne :neckbeard:
 ###### **Galite atsisiusti arba tesiog  git clone** https://gitlab.com/slkyper/python_script_to_mysql.git
 ###### Atsisiunte instaliuokite requirements.txt -> pip install -r requirements.txt
 
-###### Jungtis per cmd\Terminala -> macOS
+###### Jungtis per cmd\Terminala -> macOS :apple:
 ###### Atsidaryti Terminala ir susirasti direktorija , kurioje yra visi sie failai. -> ls - rodo failus , cd keicia direktorija.
 ###### Paziurekite kokia versija -> pip --version.
 ###### Atnaujinkite pip jei reikia -> python3 -m pip install --upgrade pip
