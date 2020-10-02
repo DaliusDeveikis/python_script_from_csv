@@ -1,7 +1,7 @@
 ## ***Pirmas bandymas*** :+1:
 ###### Pirmas mano mazas projekciukas [Python script to import csv into MySQL](https://gitlab.com/slkyper/python_script_to_mysql). :snake:
 
-## Paprasta instrukcija :sunglasses: , kas supras , o kas ne :neckbeard:
+## Paprasta instrukcija :sunglasses: , kas supras , o kas ne :sweat_smile:
 ###### **Galite atsisiusti arba tesiog  git clone** https://gitlab.com/slkyper/python_script_to_mysql.git
 ###### Atsisiunte instaliuokite requirements.txt -> pip install -r requirements.txt
 
