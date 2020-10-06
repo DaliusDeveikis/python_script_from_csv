@@ -1,4 +1,4 @@
-# $$$$$$$$$$$$$$$$$$$$$$$$$$$$$ 3-ju dienu darbas :) $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
 
 import mysql.connector as mysql # virtualioje aplinkoje instaliuoti paketa -> pip install mysql.connector
 import csv
