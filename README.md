@@ -1,8 +1,10 @@
 ## ***Pirmas bandymas*** :+1:
 ###### Pirmas mano mazas projekciukas [Python script to import csv into MySQL](https://gitlab.com/slkyper/python_script_to_mysql). :snake:
+#
 
 ## Paprasta instrukcija :sunglasses: , kas supras , o kas ne :sweat_smile:
 ###### Jungtis per Terminala -> macOS :apple:
+#
 
 ###### **Atsidarykite terminala.**
 ###### **git clone** https://gitlab.com/slkyper/python_script_to_mysql.git
@@ -14,6 +16,7 @@
 ###### Galite pasiziureti kokie paketai instaliuoti  -> pip freeze 
 ###### Toliau galime paleisti cinemaDB.py -> python3 cinemaDB.py
 
+#
 ###### Jei viskas pavyko , toliau per terminala gausite irasyti host,user,password ir savo duomenu bazes pavadinima.
 ###### host , user , password rasykite tuos duomenu bazes , kuria esate sukuria , arba sukurkite is naujo.
 ###### Dazniausiai: host = localhost , user = root , password = jusu sugalvotas..
